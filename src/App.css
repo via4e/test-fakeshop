@@ -1,0 +1,14 @@
+.App {
+
+  text-align: center;
+
+}
+
+.App-link {
+  position: absolute;
+  top: 0;
+  left:0;
+  color: #61dafb;
+}
+
+@media (prefers-reduced-motion: no-preference) {}

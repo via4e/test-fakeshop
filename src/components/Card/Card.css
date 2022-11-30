@@ -1,0 +1,27 @@
+
+.Card {
+    position: relative;
+    border: 1px solid orange;
+    width: 150px;
+    height: 300px;
+    margin: 10px 20px;
+}
+
+.Card-title {
+    width: 100%;
+    height: 120px;
+    overflow: hidden;
+    color:green;
+    font-size: 1.1em;
+    font-weight: 600;
+    margin-bottom: 20px;
+}
+
+.Card-price {
+    padding: 10px 0;
+    height: 30px;
+}
+
+.Card-image {
+    height: 60px;
+}

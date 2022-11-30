@@ -1,0 +1,7 @@
+.shop {
+    margin: 20px auto;
+    max-width:80vw;
+    display: flex;
+    flex-flow: row wrap;
+    align-items: center;
+}
