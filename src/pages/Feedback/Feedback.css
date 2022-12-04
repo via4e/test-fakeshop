@@ -1,4 +1,32 @@
-.red {
-    color: crimson;
+.feedback {
+    width:40%;
+    display: flex;
+    flex-direction: column;
+    margin: 0 auto;
+}
+
+.feedback input {
+    font-size: 1.5em;
+    font-weight: 600;
+    margin: 20px;
+    border: 5px solid blue;
+}
+
+.feedback textarea {
+    font-size: 1.5em;
+    font-weight: 600;
+    margin: 20px;
+    border: 5px solid blue;
+}
+
+.feedback button {
+    font-size: 1.5em;
+    font-weight: 600;
+    margin: 20px;
+    border: 5px solid orange;
+}
+
+.feedback span {
+    font-size: 1.5em;
     font-weight: 600;
 }

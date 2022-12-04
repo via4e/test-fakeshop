@@ -1,7 +1,27 @@
 .shop {
     margin: 20px auto;
-    max-width:80vw;
+    max-width:88vw;
     display: flex;
     flex-flow: row wrap;
     align-items: center;
 }
+
+.toolbar {
+    width: 100%;
+    display: flex;
+    flex-flow: row wrap;
+    margin: 10px 0;
+}
+
+.toolbar select {
+    font-size: 1.5em;
+    font-weight: 600;
+    margin: 0 20px;
+}
+
+.toolbar input {
+    font-size: 1.5em;
+    font-weight: 600;
+    margin: 0 20px;
+}
+

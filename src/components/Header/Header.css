@@ -13,12 +13,13 @@
     display: flex;
     flex-direction: row;
     align-items: center;
-    color: #FF6347;
+    color: yellow;
 }
 
 .logo img {
     width: 56px;
     height: 56px;
+    margin-right: 10px;
 }
 
 div a {

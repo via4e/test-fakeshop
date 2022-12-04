@@ -1,16 +1,16 @@
 import { Link } from 'react-router-dom';
-import Logo from '../../../src/assets/img/tomato.png'
+import Logo from '../../../src/assets/img/flower.png'
 import './Header.css'
 
 function Header() {
     return (
         <div className='header'>
             <div className='logo'>
-                <img src={Logo} alt='Tomato Shop' />
-                Tomato Shop
+                <img src={Logo} alt='Shop' />
+                Магазинчик
             </div>
             <div>
-                <Link to="/">Магазин</Link>
+                <Link to="/">Главная</Link>
             </div>
             <div>
                 <Link to="/basket">Корзина</Link>
